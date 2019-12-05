@@ -1,0 +1,9 @@
+{
+    "server": {
+        "port": 3000
+    },
+    "logging": {
+        "threshold": "debug"
+    },
+    "domainCors": ["http://localhost:8000"]
+}
